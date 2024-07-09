@@ -53,6 +53,9 @@
     color: black;
     
 }
+.password input:focus{
+    outline: none;
+}
 .password button{
     background-color: transparent;
     border: none;
